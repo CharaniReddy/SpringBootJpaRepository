@@ -8,7 +8,7 @@ public class SpringBootJpaProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootJpaProjectApplication.class, args);
-		System.out.println("hello Spring Boot with JPA -github");
+		System.out.println("hello Spring Boot with JPA -github123");
 	}
 
 }
